@@ -1,4 +1,4 @@
-Java RESTful API criada para o BootCamp da Avanade pela DIO.
+Java RESTful API criada para o BootCamp Decola Tech.
 
 
 ```mermaid
